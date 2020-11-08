@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Thu Feb 23 02:25:03 EST 2017
+1.base=/Users/arunchandrapendyala/AndroidStudioProjects/GroupMessenger1/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/arunchandrapendyala/AndroidStudioProjects/GroupMessenger1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.file=/Users/arunchandrapendyala/AndroidStudioProjects/GroupMessenger1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_group_messenger.xml
+4.set=ANDROID_RESOURCE
+2.base=/Users/arunchandrapendyala/AndroidStudioProjects/GroupMessenger1/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/arunchandrapendyala/AndroidStudioProjects/GroupMessenger1/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_group_messenger.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/Users/arunchandrapendyala/AndroidStudioProjects/GroupMessenger1/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/Users/arunchandrapendyala/AndroidStudioProjects/GroupMessenger1/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/arunchandrapendyala/AndroidStudioProjects/GroupMessenger1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.file=/Users/arunchandrapendyala/AndroidStudioProjects/GroupMessenger1/app/build/intermediates/res/resources-debug.ap_/res/drawable-ldpi-v4/ic_launcher.png
+4.base=/Users/arunchandrapendyala/AndroidStudioProjects/GroupMessenger1/app/build/intermediates/res/resources-debug.ap_
